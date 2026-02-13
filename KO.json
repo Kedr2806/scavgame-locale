@@ -1,6 +1,6 @@
 {
     "name": "한국어",
-    "description": "피드백이나 번역 개선점은 <color=\"yellow\">https://github.com/Kedr2806/scavgame-locale/issues</color>에 남겨 주세요.\n<color=\"white\">----------------------------------------------------------------------</color>\n번역 제작자\n\n<color=\"white\">네눈박이(DrawinDarwin)</color> <color=\"yellow\">https://github.com/DrawinDarwin</color>\n<color=\"white\">멐(muqhc)</color> <color=\"yellow\">https://github.com/muqhc</color>\n<color=\"white\">케드르(Kedr2806)</color> <color=\"yellow\">https://github.com/Kedr2806",
+    "description": "피드백이나 번역 개선점은 <color=\"yellow\">https://github.com/Kedr2806/scavgame-locale/issues</color>에 남겨 주세요.\n<color=\"white\">----------------------------------------------------------------------</color>\n번역 제작자\n\n<color=\"white\">네눈박이(DrawinDarwin)</color> <color=\"yellow\">https://github.com/DrawinDarwin</color>\n<color=\"white\">당근멸치(CarrotAnchovy)</color> <color=\"yellow\">https://github.com/johypark97</color>\n<color=\"white\">멐(muqhc)</color> <color=\"yellow\">https://github.com/muqhc</color>\n<color=\"white\">케드르(Kedr2806)</color> <color=\"yellow\">https://github.com/Kedr2806",
     "main": {
         "bandage": "붕대",
         "bandagedsc": "출혈을 서서히 멈추고 골절 완화 및 피부 치유를 돕는 붕대 한 뭉치. 근육에는 아무런 효과가 없다.",
