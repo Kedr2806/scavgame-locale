@@ -1,6 +1,6 @@
 {
     "name": "한국어",
-    "description": "피드백이나 번역 개선점은 <color=\"yellow\">https://github.com/Kedr2806/scavgame-locale/issues</color>에 남겨 주세요.\n\n<color=\"white\">----------------------------------------------------------------------------------------------------</color>\n\n폰트 가독성 패치\n\n<color=\"yellow\">https://drive.google.com/file/d/1uWbEqpFBsPs51kaPNwlSqR2n1KfFaJ_m/view</color>\n\n<color=\"white\"><mspace=0.75em><line-height=70%><align=\"center\">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%%%%%%%</color>%%%\n%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%\n%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%\n%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%\n%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%<color=\"black\">%%</color>%%<color=\"black\">%</color>%%%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%\n%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%\n%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%%%</color>%%%\n%%%%%%%%%%%%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%%%%%%%%\n%%%<color=\"black\">%</color>%%<color=\"black\">%%%%%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%%%\n%%%%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%%%</color>%%<color=\"black\">%%%%%</color>%%%%\n%%%%%<color=\"black\">%%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%%%<color=\"black\">%</color>%%%\n%%%%<color=\"black\">%</color>%%%%%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%%<color=\"black\">%%%</color>%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%</color>%%%%<color=\"black\">%%</color>%%%%%%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%<color=\"black\">%</color>%%%\n%%%%%%%%%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%%%</color>%%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%%%</color>%%%%<color=\"black\">%%%%</color>%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%\n%%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%%%%\n%%%<color=\"black\">%</color>%%%%<color=\"black\">%%</color>%%%%%%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%%</color>%%<color=\"black\">%%%</color>%%%\n%%%%<color=\"black\">%%%</color>%%%<color=\"black\">%%%%%%%</color>%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%%%%%\n%%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%%%<color=\"black\">%%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%\n%%%%%%%%%%%<color=\"black\">%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%\n%%%%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%%%%%%%</color>%%%%%%\n%%%<color=\"black\">%%</color>%%%%%%%%%%<color=\"black\">%%%</color>%%<color=\"black\">%%%%</color>%<color=\"black\">%%</color>%%<color=\"black\">%%%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%</color>%%%%<color=\"black\">%%%%</color>%%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%\n%%%%<color=\"black\">%%%%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%%%<color=\"black\">%%%%%%</color>%%%\n%%%<color=\"black\">%%</color>%%%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%%</color>%%<color=\"black\">%%</color>%%%\n%%%<color=\"black\">%%%</color>%%%%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%\n%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%%\n%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%%%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%%%%%</color>%<color=\"black\">%%%</color>%%%%%\n%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%%%%%%%%</color>%<color=\"black\">%</color>%%%\n%%%%%%%%%%%<color=\"black\">%</color>%%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%%%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%\n%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%%%%%%</color>%<color=\"black\">%%%%%</color>%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%\n%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%%\n%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%%%%</color>%%%<color=\"black\">%</color>%%%\n%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%\n%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%%%%</color>%%%%%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%\n%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%%%%%</color>%%%\n%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</align></line-height></mspace>\n\n----------------------------------------------------------------------------------------------------</color>\n\n번역 제작자\n\n<color=\"white\">A토픽(topicular)</color> <color=\"yellow\">https://github.com/metnias</color>\n<color=\"white\">당근멸치(CarrotAnchovy)</color> <color=\"yellow\">https://github.com/johypark97</color>\n<color=\"white\">멐(muqhc)</color> <color=\"yellow\">https://github.com/muqhc</color>\n<color=\"white\">쉘터캣(Shelt3redcat)\n진도리(DrawinDarwin)</color> <color=\"yellow\">https://github.com/DrawinDarwin</color>\n<color=\"white\">케드르(Kedr2806)</color> <color=\"yellow\">https://github.com/Kedr2806",
+    "description": "피드백이나 번역 개선점은 <color=\"yellow\">https://github.com/Kedr2806/scavgame-locale/issues</color>에 남겨 주세요.\n\n<color=\"white\">----------------------------------------------------------------------------------------------------</color>\n\n폰트 가독성 패치\n\n<color=\"yellow\">https://drive.google.com/file/d/1uWbEqpFBsPs51kaPNwlSqR2n1KfFaJ_m/view</color>\n\n<color=\"white\"><mspace=0.75em><line-height=70%><align=\"center\">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%%%%%%%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%<color=\"black\">%%</color>%%<color=\"black\">%</color>%%%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%%%</color>%%%%\n%%%%%%%%%%%%%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%%%%%%%%%\n%%%%<color=\"black\">%</color>%%<color=\"black\">%%%%%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%%%%\n%%%%%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%%%</color>%%<color=\"black\">%%%%%</color>%%%%%\n%%%%%%<color=\"black\">%%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%%%<color=\"black\">%</color>%%%%\n%%%%%<color=\"black\">%</color>%%%%%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%%<color=\"black\">%%%</color>%%%%\n%%%%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%</color>%%%%<color=\"black\">%%</color>%%%%%%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%%%\n%%%%%<color=\"black\">%%%</color>%%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%%%</color>%%%%<color=\"black\">%%%%</color>%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%%%%%\n%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%</color>%%%%%%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%%</color>%%<color=\"black\">%%%</color>%%%%\n%%%%%<color=\"black\">%%%</color>%%%<color=\"black\">%%%%%%%</color>%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%%%%%%\n%%%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%%%<color=\"black\">%%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%<color=\"black\">%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%%\n%%%%%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%%%%%%%</color>%%%%%%%\n%%%%<color=\"black\">%%</color>%%%%%%%%%%<color=\"black\">%%%</color>%%<color=\"black\">%%%%</color>%<color=\"black\">%%</color>%%<color=\"black\">%%%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%%\n%%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%</color>%%%%<color=\"black\">%%%%</color>%%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%%\n%%%%%<color=\"black\">%%%%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%%%<color=\"black\">%%%%%%</color>%%%%\n%%%%<color=\"black\">%%</color>%%%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%%</color>%%<color=\"black\">%%</color>%%%%\n%%%%<color=\"black\">%%%</color>%%%%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%%\n%%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%%%\n%%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%%%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%%%%%</color>%<color=\"black\">%%%</color>%%%%%%\n%%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%%%%%%%%</color>%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%<color=\"black\">%</color>%%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%%%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%%%%%%</color>%<color=\"black\">%%%%%</color>%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%%%%</color>%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%%%%</color>%%%%%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%%%%%</color>%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</align></line-height></mspace>\n\n----------------------------------------------------------------------------------------------------</color>\n\n번역 제작자\n\n<color=\"white\">A토픽(topicular)</color> <color=\"yellow\">https://github.com/metnias</color>\n<color=\"white\">Enine\n당근멸치(CarrotAnchovy)</color> <color=\"yellow\">https://github.com/johypark97</color>\n<color=\"white\">멐(muqhc)</color> <color=\"yellow\">https://github.com/muqhc</color>\n<color=\"white\">쉘터캣(Shelt3redcat)\n진도리(DrawinDarwin)</color> <color=\"yellow\">https://github.com/DrawinDarwin</color>\n<color=\"white\">케드르(Kedr2806)</color> <color=\"yellow\">https://github.com/Kedr2806",
     "main": {
         "bandage": "붕대",
         "bandagedsc": "출혈을 늦추고 골절을 안정시키며 피부 치유를 돕는 붕대 한 뭉치. 근육 건강에는 효력이 없다.",
@@ -64,10 +64,10 @@
         "antiraddsc": "멋진 방사선 표식이 붙어 있는 100ml 약병. 적정 투여량은 20ml다.",
         "sleepingpills": "수면제",
         "sleepingpillsdsc": "블리스터 포장된 25ml의 알약. 적정 투여량은 5ml다. 브랜드명이 없다.",
-        "rosepod": "로즈 포드",
-        "rosepoddsc": "샌드 로즈의 일부분. 시간이 지나도 시들지 않는다. 표면을 벗겨낼 수 있다.",
-        "roselight": "로즈 라이트",
-        "roselightdsc": "샌드 로즈에서 나오는 저 멀리까지 밝게 비추는 노란색 광원. 빠르게 스러지지만, 밑바닥이 얼마나 멀리 있는지 확인하는 데 유용하다. 또한 신체 부위에 사용하면 숨겨진 감염을 드러낸다.",
+        "rosepod": "장미 꼬투리",
+        "rosepoddsc": "모래장미의 일부분. 시간이 지나도 시들지 않는다. 표면을 벗겨낼 수 있다.",
+        "roselight": "장미 꽃불",
+        "roselightdsc": "모래장미에서 나오는 저 멀리까지 밝게 비추는 노란색 광원. 빠르게 스러지지만, 밑바닥이 얼마나 멀리 있는지 확인하는 데 유용하다. 또한 신체 부위에 사용하면 숨겨진 감염을 드러낸다.",
         "splint": "부목",
         "splintdsc": "골절 치료를 돕기 위해 만들어진 튼튼한 판자. 골절과 탈구의 회복을 돕는다. 멀쩡한 부위에 사용하면 움직임이 고정되어 행동 능력이 낮아진다.",
         "bloodbag": "혈액백",
@@ -76,9 +76,9 @@
         "bloodsacdsc": "피가 든 작고 질척거리는 주머니. 당신 몸에 든 피와 별반 다를 게 없어 보인다. 먹거나 제작에 쓸 수 있다.",
         "venomgland": "독샘",
         "venomglanddsc": "용혈독을 만들고 저장하는 작은 침샘. 이걸 처리해서 무슨 해독제를 만들 수 있을 거 같다.",
-        "saline": "IV 백",
+        "saline": "수액백",
         "salinedsc": "끝에 바늘이 달린 정맥 주사용 0.75L 팩.",
-        "ringersolution": "작은 IV 백",
+        "ringersolution": "작은 수액백",
         "ringersolutiondsc": "끝에 바늘이 달린 정맥 주사용 0.7L 팩.",
         "bloodbaghuman": "붉은 혈액백",
         "bloodbaghumandsc": "끝에 자동 주사 장치가 달린 0.75L 플라스틱 팩. 사용 시 375ml를 주사한다. 인벤토리에서 사용하여 피를 뽑을 수 있다. 붉은색이 조금 남아 있다.",
@@ -108,7 +108,7 @@
         "brokenbagdsc": "오래된 데다 심하게 닳은 책가방. 가방끈이 사용할 수 없을 정도로 찢어져 있어 메고 다닐 수는 없다.",
         "box": "골판지 상자",
         "boxdsc": "중간 정도 크기의 골판지 상자.",
-        "toolbox": "도구함",
+        "toolbox": "공구함",
         "toolboxdsc": "도구를 보관하기 위해 만들어진, 크고 무거운 강철 상자.",
         "medkit": "구급상자",
         "medkitdsc": "의약품을 보관하는 작은 상자.",
@@ -140,11 +140,11 @@
         "emissivecrystalsharddsc": "오랜 시간 동안 밝게 빛난다. 빛이 유지되는 동안 광원으로 유용하다.",
         "digestioncrystalshard": "소화의 수정 조각",
         "digestioncrystalsharddsc": "몸에서 무언가를 빠져나가게 하는 듯한 느낌이다... 몸에 지니면 배탈을 진정시켜 준다.",
-        "geofruit": "지오 후르츠",
-        "geofruitdsc": "단순하지만 맛있는 과일. 지오 트리에서 자라난다. 칼로리가 낮고 갈증을 약간 해소해 주지만 빨리 썩는다.",
-        "stonefruitclosed": "밀봉된 스톤 후르츠",
+        "geofruit": "기하배",
+        "geofruitdsc": "단순하지만 맛있는 과일. 기하나무에서 자라난다. 칼로리가 낮고 갈증을 약간 해소해 주지만 빨리 썩는다.",
+        "stonefruitclosed": "밀봉된 돌부럼",
         "stonefruitcloseddsc": "식물의 딱딱한 회색 부분이 붙어있는 딱딱한 녹색 과일. 먹기 전에 이빨로 분리해 내야 한다.",
-        "stonefruitopen": "스톤 후르츠",
+        "stonefruitopen": "돌부럼",
         "stonefruitopendsc": "평범한 맛과 중간 정도의 지방 함량을 가진 딱딱한 녹색 과일. 매우 건조해서 먹으면 목말라질 거다.",
         "banana": "바나나",
         "bananadsc": "다른 행성에서 온 듯한 맛있는 노란색 과일. 극소량의 방사성을 띠고 있다.",
@@ -218,12 +218,12 @@
         "foliagemealdsc": "꽤 괜찮은 음식이다. 바삭한 잎사귀와 단순한 재료들로 만들었다. 빨리 상하고 지방이 없지만, 배를 많이 채워준다.",
         "dryfoliage": "마른 잎사귀",
         "dryfoliagedsc": "건조해지니 그나마 먹을만하게 보인다. 약간 배탈이 날 수 있다.",
-        "glowplantfruit": "글로우 플랜트 열매",
+        "glowplantfruit": "초롱풀 열매",
         "glowplantfruitdsc": "스스로 빛나는 먹을 수 없는 과일. 적당한 수준의 독소를 함유하고 있어 감염을 줄인다. 과즙이 화학 반응을 일으키기 때문에 제작에 유용하다.",
         "flashlight": "손전등",
         "flashlightdsc": "배터리를 서서히 소모해 전방의 넓은 영역을 비춘다. 사용하면 모드를 변경한다.",
         "emergencylight": "비상용 조명",
-        "emergencylightdsc": "자그만 일회용 비상 손전등이다. 배터리가 방전되기 전에 새 광원을 찾아야 한다. 사용하면 켜고 끈다.",
+        "emergencylightdsc": "자그마한 일회용 비상 손전등이다. 배터리가 방전되기 전에 새 광원을 찾아야 한다. 사용하면 켜고 끈다.",
         "lantern": "랜턴",
         "lanterndsc": "밝은 노란색 수정이 들어있는 나무와 유리로 만든 단순한 랜턴.",
         "lightbulb": "전구",
@@ -231,11 +231,11 @@
         "nutrientbar": "영양 바",
         "nutrientbardsc": "순수한 영양소와 칼로리의 고체 식용 막대기. 맛은 그럭저럭이고 상하지 않는다.",
         "primitivediggingtool": "철제 호미",
-        "primitivediggingtooldsc": "뾰족하고 무거운 금속 조각이 붙어있는 막대기. 발톱을 쓰는 것보다 효율적으로 땅을 팔 수 있다.",
+        "primitivediggingtooldsc": "뾰족하고 무거운 금속 조각이 붙어있는 막대기. 손톱을 쓰는 것보다 효율적으로 땅을 팔 수 있다.",
         "makeshiftdiggingtool": "간이 호미",
         "makeshiftdiggingtooldsc": "바위를 파내기 위해 금속 조각을 대충 엮어 만든 도구. 약간 약하다.",
         "makeshiftheadlamp": "간이 헤드램프",
-        "makeshiftheadlampdsc": "그냥 글로우 플랜트 열매를 이마에 묶은 것이다. 편하진 않지만, 소지품 공간을 확보할 수 있다.",
+        "makeshiftheadlampdsc": "그냥 초롱풀 열매를 이마에 묶은 것이다. 편하진 않지만, 소지품 공간을 확보할 수 있다.",
         "shovel": "철제 삽",
         "shoveldsc": "흙이나 그 외의 느슨한 재질을 효율적으로 퍼내기 위해 특별히 제작된 도구. 당신이 난생처음 보는 도구지만, 사용하는 방법은 어렵지 않다.",
         "woodshovel": "나무 삽",
@@ -261,7 +261,7 @@
         "woodpickaxe": "나무 곡괭이",
         "woodpickaxedsc": "그리 믿음직하지 못한 소재로 만들어진 곡괭이. 지형을 깎아내는 데는 효율적이지만, 느리고 부서지기 쉽다.",
         "wooddiggingtool": "나무 호미",
-        "wooddiggingtooldsc": "뾰족하게 깎아낸 나무 조각이 붙어있는 막대기. 발톱을 쓰는 것보다 아주 조금 더 낫다.",
+        "wooddiggingtooldsc": "뾰족하게 깎아낸 나무 조각이 붙어있는 막대기. 손톱을 쓰는 것보다 아주 조금 더 낫다.",
         "machete": "마체테",
         "machetedsc": "크고 넓은 금속 날붙이. 백병전에서 유용할 것이다. 들고 있으면 불안한 느낌이 든다.\n\n<color=\"red\">건강 패널에서 심하게 감염된 사지를 절단하는 데 사용할 수 있다.",
         "crudecleaver": "조잡한 식칼",
@@ -275,9 +275,9 @@
         "claws": "발톱 팩",
         "clawsdsc": "장난감처럼 보이지만 무서우리만치 단단하고 날카롭다. 들고 있으면 어쩐지 멋있어 보일 거 같다는 느낌이 든다.\n\n<color=\"red\">건강 패널에서 심하게 감염된 사지를 절단하는 데 쓸 수 있다.",
         "trowel": "모종삽",
-        "troweldsc": "나무와 금속으로 만들어진 원시적인 원예 도구. 발톱을 사용하는 것보다 낫다.",
+        "troweldsc": "나무와 금속으로 만들어진 원시적인 원예 도구. 손톱을 사용하는 것보다 낫다.",
         "woodtrowel": "나무 모종삽",
-        "woodtroweldsc": "나무로 만들어진 원시적인 원예 도구. 발톱을 사용하는 것보다 나을까...?",
+        "woodtroweldsc": "나무로 만들어진 원시적인 원예 도구. 손톱을 사용하는 것보다 나을까...?",
         "experimentflesh": "노란 살점",
         "experimentfleshdsc": "당신과 같은 종족에게서 뜯어낸 살 조각. 포만감은 채워주지만, 배탈이 난다.",
         "rope": "로프",
@@ -286,7 +286,7 @@
         "animalfleshdsc": "이 행성에 서식하는 죽은 동물로부터 뜯어낸 고기 조각. 당신의 종족과 매우 비슷한 느낌이 있어 조금 배탈이 나지만 어느 정도 먹을 수는 있다.",
         "internalorgans": "내장",
         "internalorgansdsc": "당신과 비슷한 덩치를 가진 생물로부터 나온 듯 보이는 내장 뭉치. 주황색 눈이 튀어나온 것이 보인다. 배는 채워주지만 끔찍하리만치 거부감이 드는 데다 배탈에 시달리게 된다.",
-        "blobflesh": "블롭 살점",
+        "blobflesh": "질퍽살",
         "blobfleshdsc": "이상하리만치 끈적거리는 살 조각. 포만감을 채워주는 데다 맛있다! 약간 배탈이 날 수 있다.",
         "cactusflesh": "선인장 조각",
         "cactusfleshdsc": "가시가 돋쳐있지만 달콤하고 수분을 많이 머금고 있다. 맛있고, 수분을 보충해 주지만 먹으면 따갑다.",
@@ -411,7 +411,7 @@
         "icepack": "아이스 팩",
         "icepackdsc": "자가 냉각 젤로 채워진 팩. 근육 회복 촉진, 통증 감소, 약간의 체온 감소 효과가 있다. 시간이 지나면 자동으로 차가워진다.",
         "armwarmers": "토시",
-        "armwarmersdsc": "파란색 토시 한 짝. 추위에서 조금 보온해 준다.",
+        "armwarmersdsc": "파란색 토시 한 켤레. 추위에서 조금 보온해 준다.",
         "carapace": "흉갑",
         "carapacedsc": "흉부를 보호해 주는 견고한 강철 갑각. 위엄이 느껴진다.",
         "limbwraps": "사지 붕대",
@@ -456,13 +456,13 @@
         "popfruitdsc": "이상한 직사각형 모양의 윤이 나는 과일. 맛있고, 허기와 갈증을 해소해 준다. 방사선 피폭을 무작위로 약간 호전 또는 악화시킬 수 있다. 빠른 속도로 지면에 충돌하면 큰 소리를 내므로 낙하 거리를 가늠하는 데 유용하다.",
         "antisepticmush": "소독제 반죽",
         "antisepticmushdsc": "열매와 잎사귀를 으깨 만든 혼합물로, 감염 치료에 효과적이다. 1회 사용분이다.",
-        "striderpelt": "스트라이더 모피",
-        "striderpeltdsc": "스노우 스트라이더에서 뜯은, 크고 두꺼운 복슬복슬한 하얀색 모피 조각. 뛰어난 보온 효과를 제공한다.",
+        "striderpelt": "눈쟁이 모피",
+        "striderpeltdsc": "복슬눈쟁이에서 뜯은, 크고 두꺼운 복슬복슬한 하얀색 모피 조각. 뛰어난 보온 효과를 제공한다.",
         "funguschunk": "버섯 덩어리",
         "funguschunkdsc": "뜯긴 버섯 조각. 음식으로서는 나쁘지 않지만, 부작용이 어떨지는 확신할 수 없다.",
         "clottingmush": "응고제 반죽",
         "clottingmushdsc": "혈액 응고를 촉진하는 습포제가 담긴 약병. 변질되는 것을 막기 위해 특수 용기에 보관해야 한다. 그 자체로는 그다지 유용하지 않지만, 더 개량할 수 있을 것 같다...",
-        "bunchunk": "벙갈리 덩어리",
+        "bunchunk": "진팡덩이",
         "bunchunkdsc": "혈액 응고를 촉진하는 특성이 있는 버섯 조각. 그 자체로는 그다지 유용하지 않지만, 더 개량할 수 있을 것 같다...",
         "smallbattery": "소형 배터리",
         "smallbatterydsc": "여러 전자기기에 들어가는 작은 배터리. 중형 배터리의 절반 용량이다.",
@@ -578,29 +578,29 @@
     "buildings": {
         "animalcorpse": "동물 사체",
         "animalcorpsedsc": "",
-        "fungalibungali": "펑갈리 벙갈리",
+        "fungalibungali": "곰팡진팡",
         "fungalibungalidsc": "초록빛이 도는 작은 버섯 군집. 운이 좋다면 갓을 수확할 수 있을지도 모른다.",
         "mushroomplatform": "버섯 발판",
         "mushroomplatformdsc": "위에 서 있을 수 있는 튼튼한 균류 조각.",
-        "bouncecap": "바운스 캡",
+        "bouncecap": "퐁퐁송이",
         "bouncecapdsc": "야호오오오!",
         "climbingropeextended": "등반 로프",
         "climbingropeextendeddsc": "늘어져 있는 튼튼한 로프. 가까이서 위 방향을 누르고 있으면 붙잡을 수 있다.",
-        "glowshroom": "글로우 슈룸",
+        "glowshroom": "초롱버섯",
         "glowshroomdsc": "약간 방사성이고 엄청 밝다.",
         "mushroomtree": "버섯 나무",
         "mushroomtreedsc": "생체 발광하는 듯 하다.",
         "drillpod": "드릴 포드",
         "drillpoddsc": "딱딱한 땅을 뚫고 사람을 장거리 수송하는 데 쓰인다. 지금은 작동 상태가 아니지만, 수리 키트를 가져오면 작동할 것이다. 층 2개를 스킵해서 내려가는 데 쓸 수 있다.",
         "drillpoddscfixed": "딱딱한 땅을 뚫고 사람을 장거리 수송하는 데 쓰인다.\n\n안에서 앉으면 층 2개를 스킵해서 내려간다.\n방음 기능을 상실해서 청각 손실을 일으킬 수 있다.",
-        "drillpodbroken": "고장난 드릴 포드",
-        "drillpodbrokendsc": "수리할 수 없을 정도.",
+        "drillpodbroken": "망가진 드릴 포드",
+        "drillpodbrokendsc": "수리할 수 없을 정도다.",
         "frigiant": "프리지언트",
         "frigiantdsc": "반짝반짝 얼음 식물. 전구 같은 것이 매달려있다.",
-        "snowstrider": "스노우 스트라이더",
+        "snowstrider": "복슬눈쟁이",
         "snowstriderdsc": "동굴 생태계 차가운 지역의 사냥꾼, 크고 복슬복슬한 생명체다. 두꺼운 가죽으로 몸을 따뜻하게 유지한다.",
-        "spaceheater": "이온 공간 난방기",
-        "spaceheaterdsc": "주위를 강하게 난방하는 장치. 너무 오래 가까이 있으면 방사선 피폭 가능성이 있다.",
+        "spaceheater": "이온 히터",
+        "spaceheaterdsc": "주위를 강하게 데우는 장치. 너무 오래 가까이 있으면 방사선 피폭 가능성이 있다.",
         "xaloris": "잘로리스",
         "xalorisdsc": "스펀지처럼 부드럽고 가시투성이인 고사리로, 주변 공기를 데워 포자를 퍼뜨린다. 추위를 막아주지만, 포자를 너무 오래 흡입하면 면역 체계에 문제가 생길 수 있다.",
         "lifepodheater": "구명 포드 난방기",
@@ -612,7 +612,7 @@
         "beartrap": "오래된 기계 장치",
         "beartrapdsc": "가시 이빨이 난 턱 한 쌍.",
         "bioterminal": "생체 터미널",
-        "bioterminaldsc": "\"계속하시려면 인간의 DNA 표본을 투입하십시오...\"라는 문구를 출력하고 있는 컴퓨터 터미널. 아래에 받침이 달려있다.",
+        "bioterminaldsc": "아래에 받침이 달린 컴퓨터 터미널. \"계속하시려면 인간의 DNA 표본을 투입하십시오...\"라는 문구를 출력하고 있다.",
         "lifepodshower": "구명 포드 샤워기",
         "lifepodshowerdsc": "살균 세척 거품 스프레이를 한 번 분사한다.",
         "lifepodpump": "구명 포드 펌프",
@@ -630,11 +630,11 @@
         "corpsedsc": "",
         "glassshards": "유리 파편",
         "glassshardsdsc": "",
-        "sandvine": "모래 덩굴",
+        "sandvine": "모래덩굴",
         "sandvinedsc": "길고 튼튼한 덩굴이다. 너무 얇지만 않으면 등반할 수 있다.",
         "ladder": "사다리",
         "ladderdsc": "오르내리기를 위해 가로대를 위아래로 펼쳐 고정한 것이다. 당신은 아마 사용법을 알고 있다.",
-        "shadecrawler": "셰이드 크롤러",
+        "shadecrawler": "그늘거미",
         "shadecrawlerdsc": "",
         "wallbiter": "모래뒤잡이",
         "wallbiterdsc": "크고 폭신한 여섯 다리 짐승. 날카로운 이빨 같은 게 튀어나온 것이 보인다. 불규칙적으로 움직인다.",
@@ -660,15 +660,15 @@
         "EmissiveCrystaldsc": "제법 밝은 빛을 내뿜고 있다.",
         "foodbox": "음식 상자",
         "foodboxdsc": "음식이 들어있다.",
-        "geotree": "지오 트리",
+        "geotree": "기하나무",
         "geotreedsc": "말랑하다! 이상하리만치 기하학적인 나뭇잎 같은 게 덕지덕지 붙어있다.",
-        "glowplant": "글로우 플랜트",
+        "glowplant": "초롱풀",
         "glowplantdsc": "생체 발광하는 연두색 식물. 환경에 영향받지 않는 듯하다.",
         "jumppad": "오래된 기계 장치",
         "jumppaddsc": "위에 압력판이 달려있다.",
         "landmine": "지뢰",
         "landminedsc": "보기만 해도 오금이 저린다.",
-        "leadbush": "리드 부시",
+        "leadbush": "땜장이덤불",
         "leadbushdsc": "곳곳에 금속 조각들이 자라나고 있는 모습이 보인다. 식물처럼 보이기는 해도 사실 동물이다!",
         "lifepodchest": "구명 포드 상자",
         "lifepodchestdsc": "대개 기본적인 생존 장비가 들어있다.",
@@ -677,14 +677,14 @@
         "medcrate": "의료품 상자",
         "medcratedsc": "의료품이 들어있다.",
         "rechargingstation": "충전소",
-        "rechargingstationdsc": "배터리를 충전하는 데 사용되는 시설이다. 어떤 크기의 배터리도 충전할 수 있으며, 무한한 전력을 가진 것 같다. 메인 손에 있는 배터리를 삽입한 다음, 다시 자신에게 드래그하여 충전할 수 있다.\n\n기다리는 동안 분위기를 부드럽게 해주는 음악 플레이어가 있는 것 같다... 아이러니하게도 배터리는 없다.",
+        "rechargingstationdsc": "배터리를 충전하는 데 사용되는 시설이다. 모든 크기의 배터리를 충전할 수 있으며, 무한한 전력을 가진 것 같다. 주 손에 있는 배터리를 삽입하여 충전하고, 다시 자신에게 드래그하여 되가져올 수 있다.\n\n기다리는 동안 분위기를 부드럽게 해주는 음악 플레이어가 있는 것 같다... 아이러니하게도 배터리는 들어있지 않다.",
         "hydreed": "방울갈대",
         "hydreeddsc": "방울 같은 열매가 끝에 달린 팔이 여럿 나 있다. 촉촉해 보인다...",
         "OxygenCrystal": "숨결의 수정",
         "OxygenCrystaldsc": "거품이 끓어오르는 듯 하다...",
         "reinforceddoor": "튼튼한 문",
         "reinforceddoordsc": "무언가로 열 수 있을 것 같다...",
-        "ReliefCrystal": "평안의 수정",
+        "ReliefCrystal": "진통의 수정",
         "ReliefCrystaldsc": "날카롭고 붉다.",
         "crystalmini": "수정",
         "crystalminidsc": "조그만 생체 발광 수정.",
@@ -698,7 +698,7 @@
         "crystalmassivedsc": "거대한 생체 발광 수정.",
         "crystalenemy": "현현",
         "crystalenemydsc": "당신의 제한된 물리적 이해를 훨씬 벗어나는 무언가가 표출하는 악의.",
-        "sandrose": "샌드 로즈",
+        "sandrose": "모래 장미",
         "sandrosedsc": "모서리가 둥근 직사각형 모양의 큰 물건이 여러 개 자라난 듯 보이는 이상하게 아름다운 식물.",
         "scrapeater": "고철 투입구",
         "scrapeaterdsc": "\"고철을 투입해 여십시오\"라는 문구가 적힌 라벨이 붙어있다. 그 옆 작은 화면에 <color=#ffffff>\"<>%\"</color>라 떠 있다.",
@@ -711,7 +711,7 @@
         "spikestabber": "오래된 기계 장치",
         "spikestabberdsc": "무서워 보인다. 무력화할 수 있을 것 같은데...",
         "spikestabberdscused": "이제 안전한 것 같다.",
-        "stoneplant": "스톤 플랜트",
+        "stoneplant": "돌나무",
         "stoneplantdsc": "질척거리는 초록색 덩어리가 덕지덕지 붙어있는 딱딱한 돌처럼 생긴 물질이 뭉쳐진 것.",
         "TurbulentCrystal": "고동의 수정",
         "TurbulentCrystaldsc": "약간 요동치는 듯 하다.",
@@ -739,26 +739,26 @@
         "trader": "생존자",
         "traderdsc": "또 다른 불행한 희생양. 그나마 숨은 붙어 있다.",
         "traderdscdead": "더 이상 숨이 붙어 있지 않다. 당신 덕분이다.",
-        "bananaplant": "바나나 플랜트",
-        "bananaplantdsc": "노란색의 부드러운 윗부분 덕에 이른바 \"바나나 플랜트\"라는 별칭이 붙은, 짧고 넓은 식물. 밟으면 제법 미끄럽다.",
+        "bananaplant": "바나나풀",
+        "bananaplantdsc": "노란색의 부드러운 윗부분 덕에 \"바나나풀\"라는 별칭이 붙은, 짧고 넓은 식물. 밟으면 제법 미끄럽다.",
         "geyser": "간헐천",
         "geyserdsc": "물을 쏘아 올리곤 하는 불안정한 간헐천. 다행히 실온 정도다.",
         "oilpipe": "하수관",
         "oilpipedsc": "검은 타르가 쏟아져 나오는 녹슨 파이프. 안을 들여다보고 싶지 않다... 오래 놔두면 주변을 침수시킬 거다.",
         "pop": "팝",
         "popdsc": "끝에 반투명한 전구 모양 물체가 자라고 있는, 길고 칙칙한 보라색 식물.",
-        "mushroomdropper": "드롭슈룸",
-        "mushroomdropperdsc": "지나가는 불행한 모두에게 갓을 열어 포자를 뿌리는 균류.",
-        "mushroomdropperpayload": "드롭슈룸 갓",
+        "mushroomdropper": "떨구버섯",
+        "mushroomdropperdsc": "지나가는 불행한 모두에게 갓을 떨궈 포자를 뿌리는 균류.",
+        "mushroomdropperpayload": "떨구버섯 갓",
         "mushroomdropperpayloaddsc": "떨어져서 다치는 부분이다.",
         "mushroomrope": "버섯 덩굴",
         "mushroomropedsc": "기다란 균사체 부분이다. 쉽게 타고 오를 수 있을 것 같다.",
-        "sidestabber": "사이드스태버",
+        "sidestabber": "옆찌르라미",
         "sidestabberdsc": "균류와 융합한 기이한 동물. 지나가는 먹이에 커다란 가시를 쏜다.",
-        "skullcrusher": "스컬크러셔",
+        "skullcrusher": "두개골파괴자",
         "skullcrusherdsc": "두통을 선사할 것 같다.",
-        "gunmine": "건마인",
-        "gunminedsc": "속어로 \"발목 지뢰\"라고도 불린다.",
+        "gunmine": "총지뢰",
+        "gunminedsc": "속칭 \"발가락 튀김기\"라고도 불린다.",
         "sawblade": "톱날",
         "sawbladedsc": "끔찍한 추억을 부른다.",
         "LoreNote": "글이 담긴 노트",
@@ -767,7 +767,7 @@
         "ceilingryedsc": "끝에 길쭉한 자루가 매달린 풀이 희한하게 듬성듬성 난 자리다. 안에 곡물로 보이는 것이 들어있는 것 같다.",
         "grabberplant": "촉수식물",
         "grabberplantdsc": "끝부분으로 주변 환경을 더듬거리는 듯하다.",
-        "grabbershroom": "잡아채기버섯",
+        "grabbershroom": "덥석버섯",
         "grabbershroomdsc": "버섯이 어떻게 이런 일을 할 수 있는지 이해하기 어렵다.",
         "terminal": "터미널",
         "terminaldsc": "오래된 컴퓨터 터미널."
@@ -934,8 +934,8 @@
         "lowimmunity": "면역력 저하",
         "highimmunity": "면역력 향상",
         "amputation": "절단됨",
-        "clawdamage1": "무뎌진 발톱",
-        "clawdamage2": "부러진 발톱",
+        "clawdamage1": "무뎌진 손톱",
+        "clawdamage2": "부러진 손톱",
         "keratinbooster": "케라틴 재생 촉진",
         "impendingdoom": "불길한 예감",
         "horrified": "공포",
@@ -1105,7 +1105,7 @@
         "clawdamage1dsc": "계속 사용한 손톱이 닳아 공격력이 감소한다. 잠시 손을 쉬어주거나 도구를 사용하자.",
         "clawdamage2dsc": "과도한 사용으로 손톱이 심하게 손상되어 공격력이 많이 감소한다. 도구 없이 계속 손톱을 사용하면 손을 다칠 수 있다.",
         "keratinboosterdsc": "손톱이 세 배 빠른 속도로 재생된다. (<>)",
-        "impendingdoomdsc": "갑자기 압도적인 공포감이 느껴진다. 피부에 소름이 돋았다. 주변 자연이 순식간에 정적에 감싸인 것 같다...",
+        "impendingdoomdsc": "갑자기 압도적인 공포감이 느껴진다. 온 피부에 소름이 돋는다. 주변 풍경이 순식간에 정적에 휩싸인 것 같다...",
         "horrifieddsc": "집중할 수 없다. 생각할 수 없다. 다른 것은 그 무엇도 중요치 않다. 살기 위해 도망치거나 싸워야 한다!",
         "focuseddsc": "<i>우리 둘 다 오늘 죽을 거야. 한쪽이, 조금 더 늦게 죽는 것뿐이지."
     },
@@ -1122,10 +1122,10 @@
         "layertitle7": "균류 호수",
         "layertitle8": "수정 공동",
         "layertitle9": "지열 분출지",
-        "layertitle10": "가야하는 곳",
+        "layertitle10": "우리들의 목적지",
         "layertitle11": "상승",
         "layertitle12": "표면",
-        "layertitle13": "자유를 향한 길",
+        "layertitle13": "자유로 향한 길",
         "layermodifier0": "안개 낀",
         "layermodifier1": "따뜻한",
         "layermodifier2": "무더운",
@@ -1199,7 +1199,7 @@
         "leaves": "잎",
         "snow": "눈",
         "ice": "얼음",
-        "thinice": "얇은 얼음",
+        "thinice": "살얼음",
         "powdersnow": "가루눈",
         "heavyrock": "바위",
         "fungus": "균류",
@@ -1270,7 +1270,7 @@
         "woundglue": "상처 접착제",
         "woundgluedsc": "지혈 및 항생 효과가 있는 접착성 물질이다. 감염과 싸우고 치유를 촉진하며 출혈성 상처를 봉합하는 데 매우 효과적이다. 혈액 순환 문제를 일으킬 수 있으므로 주의해서 사용해야 한다.",
         "keratinbooster": "케라틴 촉진제",
-        "keratinboosterdsc": "케라틴 성장을 촉진하기 위해 케라틴만 표적으로 삼도록 변형된 성장 호르몬이다. 한동안 발톱이 더 빨리 자라도록 한다.",
+        "keratinboosterdsc": "케라틴 성장을 촉진하기 위해 케라틴만 표적으로 삼도록 변형된 성장 호르몬이다. 한동안 손톱이 더 빨리 자라도록 한다.",
         "highgradestimulant": "의료용 각성제",
         "highgradestimulantdsc": "의료용 각성제다. 꽤 오랫동안 활력을 주며 일반적으로 안전하게 사용할 수 있다. 과다 복용 시 보통 쇠약해지며, 금단 현상은 미미하다. 복용량은 100ml다.",
         "midgradestimulant": "강력한 각성제",
@@ -1334,7 +1334,7 @@
         "coffee": "커피",
         "coffeedsc": "볶은 커피콩으로 만든 음료다. 맛있고 자극적이지만, 카페인 함량 때문에 다소 독성이 있다.",
         "biochem": "생화학 유체",
-        "biochemdsc": "화학 반응을 크게 촉진하고 특정 물질을 수리하거나 녹일 수 있는 고급 화학 화합물이다. 제작에 무척 흔하게 사용된다.",
+        "biochemdsc": "화학 반응을 크게 촉진하며 특정 물질을 수리하거나 녹일 수 있는 고급 화학 화합물이다. 뭔가를 제작할 때 광범위하게 사용된다.",
         "groundwater": "지하수",
         "groundwaterdsc": "약간 더러운 지하수다. 마셔도 거의 안전하지만, 약간 배탈이 난다.",
         "water": "물",
@@ -1645,8 +1645,8 @@
         "wet": "젖은",
         "missionhurry": "서둘러라!",
         "bandageMinigameGuide": "붕대를 클릭하고 신체 부위 둘레로 드래그하여 감는다.\n붕대 전부를 사용할 필요는 없다.",
-        "syringeMinigameGuide": "주사기를 찔러 주입한다. 용량을 꼭 확인할 것.",
-        "lockpickMinigameGuide": "아치의 아무 곳이나 클릭해 자물쇠 따기를 시도한다.\n올바른 지점에 가까울수록 더 많이 회전한다.\n발톱을 부러뜨리지 않도록 주의하자.",
+        "syringeMinigameGuide": "주사기를 찔러 주입한다. 권고 용량을 꼭 확인할 것.",
+        "lockpickMinigameGuide": "아치의 아무 곳이나 클릭해 자물쇠 따기를 시도한다.\n올바른 지점에 가까울수록 더 많이 회전한다.\n손톱을 부러뜨리지 않도록 주의하자.",
         "lifepodMinigameGuide": "암호를 맞춰 연다.",
         "shrapnelMinigameGuide": "파편을 천천히 제거해야 한다. 너무 빠르면 아플 것이다.\n족집게를 사용하면 빠르게 뽑을 수 있다.",
         "dislocationMinigameGuide": "뼈를 정확한 위치로 맞춰 탈구를 교정한다.\n렌치를 사용하면 훨씬 덜 아플 것이다.",
@@ -2906,7 +2906,7 @@
                 "아, 아마... 아마도 다음엔 진짜 끝내버릴 수도... 하하하..."
             ],
             "angeronitem": [
-                "으아! 저리 꺼져! 크윽..."
+                "으아! 뒈져버려! 크윽..."
             ],
             "suicide": [
                 "잘 있어. 씨발 잘 있으라고. 이딴 짓거리에 이젠 신물이 나!!! 다 좆까라 그래!",
@@ -3896,7 +3896,7 @@
                 "난... 난 이 세상을 떠나고 싶지 않아...",
                 "살려줘... 살려줘... 사, 살려줘... 제발...",
                 "이.. 이.. 흐... 이렇게... 이렇게 끝나는 건가...",
-                "내가... 한 모든 게... 이... 이렇게 되기 위해서... 사, 살려줘...",
+                "내가... 한 모든 게... 이... 이렇게 되기 위해서라니... 사, 살려줘...",
                 "싫어.. 싫어.... 시, 싫어... 제발... 제발...  나, 난 죽고 싶지 않아... 도와줘...",
                 "흐... 으... 도와줘... 제발... 누구든...",
                 "으... 이렇게... 이렇게 끝내지 마... 제발... 제, 제발... 살려줘...",
@@ -3926,7 +3926,7 @@
             ],
             "thirstyresponse": [
                 "너 분명 물을 좀 찾아낼 수 있을 거야...",
-                "물 없이는 겨우 3일밖에 못 버틴다고 들은 게 떠오르네, 아하하..."
+                "물 없이는 겨우 3\"일\"밖에 못 버틴다고 들은 게 떠오르네, 아하하..."
             ],
             "sadresponse": [
                 "저기, 괜찮을 거야... 아직 잘 살아있잖아, 맞지..."
@@ -4417,7 +4417,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "마음 속으로 신체 상태를 볼 수 있는 능력에 관해 묻고 다녔는데, 여기 있는 거의 모두가 이 능력을 공유한다는 걸 알게 됐다. 신기하다. 집에서는 한 번도 할 수 없었다. 뭔가 이식된 걸까? 우리 중 아무에게도 눈에 띄는 부착물은 없다. 또 극히 일부는 이 경험을 안 겪는다는 점도 알아냈는데, 이 능력을 가능케 하는 무언가가 없는 듯하다. 희한한 일이다.",
+                "Item1": "마음속으로 신체 상태를 볼 수 있는 능력에 관해 묻고 다녔는데, 여기 있는 거의 모두가 이 능력을 갖고 있다는 걸 알게 됐다. 신기하다. 집에서는 한 번도 써 본 적이 없었다. 뭔가 이식된 걸까? 우리 중 누구에게도 눈에 띄는 부착물은 없다. 또 극히 일부는 이런 경험을 하지 못한다는 점도 알아냈는데, 이 능력을 가능케 하는 무언가가 없는 거겠지. 희한한 일이다.",
                 "Item2": "Sprites/noteDrawings/puppet",
                 "Item3": "milky"
             },
@@ -4447,7 +4447,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "내가 처한 상황을 외면하는 데 그림 그리기가 좋은 방법이란 걸 깨달았다. 우리 모두 어떤 식으로든 정신 상태에 어려움을 겪고 있을 거다. 냉혹한 현실을 벗어날 위안거리도 때때로 찾는 게 좋다.",
+                "Item1": "내가 처한 상황을 외면하는 데 그림 그리기가 좋은 방법이란 걸 깨달았다. 우리 모두 어떤 식으로든 정신 상태에 어려움을 겪고 있을 거다. 가끔은 냉혹한 현실을 벗어날 위안거리를 찾는 게 좋다.",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -4467,7 +4467,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "아픈 사고 이후 자가 진단을 하던 중, 피부에 어둡게 결절처럼 부어있는 걸 발견했다. 모양이 불규칙하고 이상하게 알록달록한 게 다채로웠다. 지름은 대략 8밀리미터로 추정했다. 더 자세히 검사했더니, 내 몸 곳곳에 몇 개 더 발견했다. 더 어린 친구와 교신했는데 없는 것 같았지만, 더 나이 많은 친구는 더 많았다. 이 잠재적 악성 종양의 전개를 계속 지켜봐야 할까?",
+                "Item1": "고통스러운 사고 이후 자가 진단을 하던 중, 피부에 어둡게 결절처럼 부어있는 걸 발견했다. 모양이 불규칙하고 이상하게 알록달록한 게 다채로웠다. 지름은 대략 8밀리미터로 추정했다. 더 자세히 검사했더니, 내 몸 곳곳에 몇 개 더 발견했다. 교신해보니 더 어린 친구에게는 없는 것 같았지만, 더 나이 많은 친구는 이런 게 더 많았다. 이 잠재적 악성 종양의 전개를 계속 지켜봐야 할까?",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -4492,7 +4492,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "이걸 읽는 누군가에게, 그놈들은 당신을 조종할 수 있고, 조종할 것이다. 이 지옥에서조차. 아무런 경고 없이 내 안에서 시끄러운 경보음이 들리기 시작하더니, \"깊이 수준 미달\"이라는 글귀가 내 시야 구석에 빨갛게 반짝이는 게 나타났다.\n\n그놈들이 어째서 이러는지 영문도 모른 채 난 공포에 질려 달리기 시작했다. 이 동굴계의 다른 지역에 진입한 후에야 이게 멈췄다. 그놈들은 당신이 여기서 얼마나 많은 시간을 보내는지 알고, 당신이 두려워할 것을 알며, 당신이 죽기 바란다. 이건 대량 학살이다.",
+                "Item1": "이걸 읽는 누군가에게, 그놈들은 당신을 조종할 수 있고, 조종할 것이다. 이 지옥에서조차. 아무런 징조도 없이 내 안에서 시끄러운 경보음이 들리기 시작하더니, 내 시야 구석에 빨갛게 반짝이는 \"깊이 수준 미달\"이라는 글귀가 나타났다.\n\n그놈들이 어째서 이러는지 영문도 모른 채, 난 공포에 질려 달리기 시작했다. 이 동굴계의 다른 지역에 진입한 후에야 이게 멈췄다. 그놈들은 당신이 여기서 얼마나 많은 시간을 보내는지 알고, 당신이 두려워할 것을 알며, 당신이 죽기 바란다. 이건 대량 학살이다.",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -4537,27 +4537,27 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "땅을 다시 파려고 하기 전까지 얼마나 나빠졌는지 몰랐는데, 내 발톱이 그냥... 갈려나갔어. 예전의 날카로움이 없고. 생각도 안 하고 계속해서 돌을 파왔는데. 헐벗겨진 느낌이야. 육신은 도구를 대신할 수 없는 거구나.\n<>\n난 모든 것에 곡괭이가 필요한 줄 알고 있었는데. 마체테로도 가벼운 건 잘 먹히더라고. 흙, 식물, 모래, 모두 쉽게 잘리더라. 손 아플 일이 훨씬 줄었어.\n<>\n케라틴 촉진제라고 적힌 병을 발견했어. 우리 기관이 망가질 줄 알고 계획해 뒀나 봐. 한 모금 마셨지. 얼마 지나지 않아 낡은 층이 털처럼 벗겨지기 시작했어. 그 아래는 더 날카로워졌고. 더 강해졌어. 낡은 부분이 벗겨지는 걸 보는 게 이상하게 만족스럽더라. 발톱으로 벽을 더 잘 잡을 수 있게 된 것도 좋아.\n<>\n인간들이 떠올랐어. 인간들은 모든 손가락에 손톱을 가지고 있었지. 전부 다. 발톱은 전혀 없었고. 가까이서 보니 정말 잘못된 거 같았어. 부드럽고, 뭉툭하고, 그런 손으로 어떻게 뭘 할 수 있는지 참 신기하더라고.\n<>\n예전엔 그게 인간들의 약점이라고만 생각했는데.\n<>\n이제 보면 그 나약함이 바로 핵심이었던 거 아닐까 싶어.",
+                "Item1": "땅을 다시 파려고 하기 전까지 얼마나 나빠졌는지 몰랐는데, 내 손톱이 그냥... 갈려나갔어. 예전의 날카로움이 없고. 생각도 안 하고 계속해서 돌을 파왔는데. 헐벗겨진 느낌이야. 육신은 도구를 대신할 수 없는 거구나.\n<>\n난 모든 것에 곡괭이가 필요한 줄 알고 있었는데. 마체테로도 가벼운 건 잘 먹히더라고. 흙, 식물, 모래, 모두 쉽게 잘리더라. 손 아플 일이 훨씬 줄었어.\n<>\n케라틴 촉진제라고 적힌 병을 발견했어. 우리 기관이 망가질 줄 알고 계획해 뒀나 봐. 한 모금 마셨지. 얼마 지나지 않아 낡은 층이 털처럼 벗겨지기 시작했어. 그 아래는 더 날카로워졌고. 더 강해졌어. 낡은 부분이 벗겨지는 걸 보는 게 이상하게 만족스럽더라. 손톱으로 벽을 더 잘 잡을 수 있게 된 것도 좋아.\n<>\n인간들이 떠올랐어. 인간들은 모든 손가락에 납작한 손톱을 가지고 있었지. 전부 다. 우리 같은 손톱은 아예 없었고. 가까이서 보니 정말 잘못된 거 같았어. 부드럽고, 뭉툭하고, 그런 손으로 어떻게 뭘 할 수 있는지 참 신기하더라고.\n<>\n예전엔 그게 인간들의 약점이라고만 생각했는데.\n<>\n이제 보면 그 나약함이 바로 핵심이었던 거 아닐까 싶어.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "온갖 종류의 생물이 끊임없이 돌아다닌다. 난 평화주의자 같은 거라, 싸우기보다는 도망치려고 한다. 어느 쪽이 먼저 죽일지 모르니... 결국 저들이 남기는 상처는 끔찍하게 아프니까... 이제 모르겠다... 그놈들은 우리가 여기서 겪는 일을 알고 있기는 할까?",
+                "Item1": "온갖 종류의 생물이 끝없이 활보한다. 난 평화주의자 같은 거라, 싸우기보다는 도망치는 쪽을 선호한다. 어느 쪽이 먼저 죽을지 모르기도 하고... 어쨌건 저것들이 내게 남긴 상처들은 끔찍하게 아팠으니까... 이제 모르겠다... 그놈들은 우리가 여기서 겪는 일을 알고 있기는 할까?",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "심하게 추락했다. 정말 심하게. 구멍에 빠져서 부상 때문에 기어오르거나 파낼 수도 없었다. 하지만 고철이 있어 살아서 나올 수 있었고, 다른 사람들에게도 알려주고 싶었다.\n\n내가 빠진 곳은 동굴 벽이었다! 내가 찾은 어떤 것도, 심지어 다이너마이트로도 동굴의 외곽을 뚫을 수 없는 듯하다. 하지만 외벽이 울퉁불퉁하기에, 고철을 쌓다 보면 제대로 된 발판을 만들 수 있다. 내가 그 어두운 구멍에서 피 흘리고 있었을 때, 내가 모은 파편을 사용해 그런 계단 같은 걸 만들어 탈출해서 비상용품을 찾았다.\n\n당신은 그런 상황에 부닥치지 않길 바란다. 이 요령을 이용해서 다칠 일을 피할 수 있을지도? 여기 우리와 함께 있는 위험한 게 무엇인지 누가 알겠는가.\n\n당신이 날 따라잡는다면 전략을 공유할 수 있겠지.\n내가 만날 수 있길 바란다.",
+                "Item1": "심하게 추락했다. 정말 처참했다. 그대로 어떤 구멍에 빠져서는, 부상 때문에 기어오르거나 땅을 팔 수도 없었다. 하지만 고철이 있었기에 살아서 나올 수 있었고, 다른 이들에게도 이에 대해 알려주고 싶다.\n\n내가 빠진 곳은 동굴의 벽 속이었다! 동굴의 외벽을 뚫는 것은 내가 찾은 물건들로는 불가능해 보였다. 심지어는 다이너마이트로도 어려워 보일 정도였으니. 하지만 요철 가득한 외벽의 오목한 부분들에 고철을 밀어 넣으니, 그 틈새가 맞물려 발판이 되었다. 어두운 곳에서 피까지 흘리고 있었지만, 그런 계단 같은 걸 만들어서 탈출해 구급 물품을 수색할 수 있었던 건, 여태까지 모아왔던 잔해들 덕분이었다.\n\n당신은 그런 위험한 상황에 맞닥뜨리지 않길 바란다. 어쩌면 이 요령을 써서 애초부터 다칠 일을 피할 수 있을지도? 어떤 또 험한 것이 이곳에 있을지 누가 알겠는가.\n\n당신이 날 따라잡는다면 생존 전략을 공유할 수 있겠지.\n서로 살아서 만날 수 있길 바란다.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "외로워져서... 위안거리를 찾기로 했다.\n무슨 미니 팩스 같은 걸 찾았는데, 부숴 열고 종이를 꺼냈다. 그런 다음 막대기에다가 빛나는 과일을 짜서 적셨다. 붓과 그림 캔버스처럼 말이다! 당신도 알았다면... 난 우리가 함께 자유롭고 평화롭게 사는 대체 현실을 그리기 시작했다. 그 빌어먹을 과학자 놈들 없이... 너무 행복해서 조금 울었다.\n하지만 이제 난 가봐야 한다. 출출해졌으니! 우리가 만나게 된다면, 당신도 그려줄까...? 난 이 \"붓\"을 정말 잘 다루게 됐다. 다른 이들에게도 그리는 법을 가르쳐봐야겠다...",
+                "Item1": "외로워져서... 위안거리를 찾기로 했다.\n무슨 미니 팩스 같은 걸 찾았는데, 부숴 열고 종이를 꺼냈다. 그런 다음 막대기에다가 빛나는 과일을 짜서 적셨다. 그랬더니 붓과 그림 캔버스가 따로 없었다! 이게 얼마나 멋졌는지 아는가... 난 우리가 함께 자유롭고 평화롭게 사는 대체 현실을 그리기 시작했다. 그 빌어먹을 과학자 놈들 따윈 없는... 너무 행복했고, 살짝 울었다.\n이제 슬슬 허기가 느껴진다. 이만 가봐야겠다! 만약 우리가 만날 일이 생긴다면 당신도 그려줄까...? 난 이 '붓'을 정말 잘 다루게 됐다. 다른 이들에게도 그리는 법을 가르쳐봐야겠다...",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "난 그리 강하지 않아서, 다른 사람들과 협력하고 싶었다. 그러면 생존 가능성이 훨씬 높아질 테니까. 하지만 내가 물어본 사람은 아무도 관심이 없었다. 모두 겁을 먹었고, 우리 중 일부는 위험하기까지 하다. 함정이 너무 많아 큰 무리를 지어 이동하는 것이 불가능한 수준이다. 분명 난 완전히 멍청한 이유로 죽고 말겠지...\n\n인간들은 너무 잔인하다. 이해할 수가 없다.",
+                "Item1": "난 그리 강하지 않아서, 다른 사람들과 협력하고 싶었다. 그러면 생존 가능성이 훨씬 높아질 테니까. 하지만 내가 함께하자고 물어보니 아무도 관심이 없었다. 모두 다 겁을 먹었고, 일부는 위험하기까지 하다. 함정이 너무 많아 큰 무리를 지어 이동하는 것이 불가능한 수준이다. 분명 난 완전히 멍청한 이유로 죽고 말겠지...\n\n인간들은 너무 잔인하다. 이해할 수가 없다.",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -4567,14 +4567,14 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "(종이에 다채로운 그래픽이 있고, 손으로 쓰인 것 같지 않다)\n<>\n수프! 우리 특선 냄비 요리를 맛보세요. 그냥 고기와 재료를 넣고 끓이면 끝. 걱정하지 마세요. 그 무게에 걸맞은 맛이란 걸 인정하실 테니까요. 최대 737년까지 보관할 수 있습니다!",
+                "Item1": "(종이에 다채로운 삽화가 그려져 있고, 손으로 쓰인 것 같지 않다)\n<>\n수프! 우리 특선 냄비 요리를 맛보세요. 그냥 고기와 재료를 넣고 끓이면 끝. 걱정하지 마세요. 그 무게에 걸맞은 맛이란 걸 인정하실 테니까요. 최대 737년까지 보관할 수 있습니다!",
                 "Item2": "",
                 "Item3": ""
             }
         ],
         [
             {
-                "Item1": "으악, 여기 진짜 짜증 나. 웬 거미한테 자꾸 물리는데, 오기 전에 내가 못 봐. 걔네 독이 있는 것 같아. 나한테 흉측하게 생긴 감염된 상처가 생기거든... 글로우 플랜트 열매가 그런 상처에 도움이 되긴 하지만",
+                "Item1": "으악, 여기 진짜 짜증 나. 웬 거미한테 자꾸 물리는데, 오기 전에 내가 못 봐. 걔네 독이 있는 것 같아. 나한테 흉측하게 생긴 감염된 상처가 생기거든... 초롱풀 열매가 이런 상처에 도움이 되긴 하지만",
                 "Item2": "Sprites/noteDrawings/spider",
                 "Item3": "experiment"
             },
@@ -4604,17 +4604,17 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "조심하지 않으면, 물에 젖는 건 꽤 위험해 보인다. 여기 기온은 우리 집보다 훨씬 낮아서, 물에 젖은 채로 너무 오래 있으면 저체온증에 걸릴 수 있다. 얼른 몸을 데워야 한다면 신체 운동을 하는 게 좋다. 내가 발견한 방법이다.",
+                "Item1": "젖은 상태라면 몸 상태에 유의해라. 이 곳의 기온은 우리들의 집보다 훨씬 낮아서, 물에 젖은 채로 너무 오래 있으면 저체온증에 걸릴 수 있다. 얼른 몸을 데워야 한다면 신체 운동을 하는 게 좋다. 내가 발견한 방법이다.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "나 자꾸 불빛을 잃어버리는 걸 멈춰야 해. 아무거나 괜찮아. 저 이상한 빛나는 식물이라도 말이야. 계속 내버려두고 잊어버린 다음, 결국 걸려 넘어져 다치잖아. 안 좋아.",
+                "Item1": "나 자꾸 불빛을 잃어버리는 걸 멈춰야 해. 아무거나 괜찮아. 저 이상하게 초롱초롱한 식물이라도 말이야. 계속 내버려두고 잊어버린 다음, 결국 걸려 넘어져 다치잖아. 안 좋아.",
                 "Item2": "Sprites/noteDrawings/glowplant",
                 "Item3": "experiment"
             },
             {
-                "Item1": "여기서는 빛이 귀중한 자원이야. 특히 깊이 들어갈수록 더 어두워지니까. 실수로 함정에 발을 디디고 싶지 않잖아. 거미 사체와 글로우 플랜트 조각으로, 헤드램프를 만들어서 내 양손을 비울 수 있어. 급할 때는 포드 안에 배터리가 다 떨어져 가는 전구를 비교적 쉽게 부술 수 있어. 물론 포드 주인의 공격을 받을 수 있지만",
+                "Item1": "여기서는 빛이 귀중한 자원이야. 특히 깊이 들어갈수록 더 어두워지니까. 실수로 함정에 발을 디디고 싶지 않잖아. 거미 사체와 초롱풀 조각으로, 헤드램프를 만들어서 내 양손을 비울 수 있어. 급할 때는 포드 안에 배터리가 다 떨어져 가는 전구를 비교적 쉽게 부술 수 있어. 물론 포드 주인의 공격을 받을 수 있지만",
                 "Item2": "Sprites/noteDrawings/lightbulb",
                 "Item3": "experiment"
             },
@@ -4624,7 +4624,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "인간들은 이상한 짓을 많이 한다. 인간들이 친절하리라고 믿어서는 결코 안 된다.\n하지만 인간들이 당신을 살려둘 거라고는 믿을 수 있다.<>\n내가 언제 팔을 부러뜨린 적이 있는데, 인간들이 “깁스”를 해줬다. 난 마음에 들지 않았다. 그건 무거웠고 팔이 전혀 움직일 수 없게 했다. 마치 인간들이 일부러 내 팔을 더 악화시킨 것 같고, 오랫동안 착용해야 했다.<>\n어느 날 깁스를 제거했는데, 내 팔은 괜찮았다.<>\n인간들은 내 팔을 악화시켜서 나중에 더 나아지게 했다.<>\n\n아마 점퍼의 머리에도 인간들이 비슷한 짓을 한 것 같다.\n점퍼는 예전에 많이 울고 소리쳤다. 한 번은 점퍼가 스스로 해쳤고, 인간들이 그 녀석을 데려갔다.<>\n점퍼가 이제 돌아왔다. 더 이상 울지도 않고 말하지도 않는다. 항상 졸린 것처럼 보인다. 점퍼의 머리는 마치 예전의 내 팔과 비슷하다. 머리에 “깁스”는 보이지 않고, 녀석의 행동이 걱정되긴 하지만, 적어도 스스로 해치지는 않으니 다행이다. 점퍼의 머리가 고쳐지면 인간들이 녀석의 머리에 한 짓이 뭐든 간에 되돌려주길 바란다.<>\n\n그 녀석이 그립다.",
+                "Item1": "인간들은 이상한 짓을 많이 한다. 인간들이 친절하리라고 믿어서는 결코 안 된다.\n하지만 인간들이 당신을 살려둘 거라고는 믿어도 좋다.<>\n내 팔이 부러진 적이 있는데, 인간들이 '깁스'라는 것을 해줬다. 난 마음에 들지 않았다. 깁스는 무겁고 팔을 전혀 움직일 수 없게 했다. 마치 인간들이 일부러 내 팔을 더 악화시킨 것 같았고, 심지어 오랫동안 착용해야 했다.<>\n한참이 지나 그들이 깁스를 제거해 줬을 때, 내 팔은 멀쩡했다.<>\n인간들은 내 팔을 더 나아지게 하려고 더 악화시켜 뒀던 것이다.<>\n\n아마 점퍼의 머리에도 인간들이 비슷한 짓을 한 것 같다.\n예전에 점퍼는 많이 울고 소리를 질러댔다. 그러던 어느 날, 점퍼가 스스로를 해쳤고, 인간들이 그 녀석을 데려갔다.<>\n점퍼는 이후에 다시 돌아왔지만 더 이상 울지도 않고 말하지도 않는다. 항상 졸린 것처럼 보인다. 점퍼의 머리는 예전의 내 팔과 비슷한 경우 같다. 머리에 깁스는 보이지 않고, 녀석의 행동이 걱정되긴 해도, 적어도 스스로 해치지는 않으니 다행이다. 점퍼의 머리가 고쳐지면 인간들이 녀석의 머리에 한 짓이 뭐든 간에 되돌려주길 바란다.<>\n\n그 녀석이 그립다.",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -4666,7 +4666,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "빛나는 물 맛 별로야",
+                "Item1": "빚나는 물 맛업서",
                 "Item2": "",
                 "Item3": "dune"
             },
@@ -4935,7 +4935,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[이메일 - 25##-12-26-14-27-52-0189]\n<>\n제목: 소우인과 사귀는 것에 대한 발표\n보낸 사람: 프로젝트 매니저\n받는 사람: 모든 직원\n<>\n[내용]\n\n직원 여러분,\n\n우리 직원 중 한 명이 SAW-03과 지속적으로 만나 사적인 정보를 공유하고 있다는 사실이 밝혀졌습니다. 이는 기밀 유지에 대한 심각한 위반일 뿐만 아니라, 피험자와의 관계는 완전히 용납할 수 없습니다. 해당 과학자는 즉시 해고되었고, SAW-03은 얼마 지나지 않아 자살했습니다.\n\n당신에게 소우인 친구가 있습니까? 우리는 당신에게 다가가고 있습니다. 돌아설 기회가 아직 있습니다. 하지만 그들과 친구 사귀는 것을 잡으면 같은 운명을 맞이하게 될 것입니다.\n\n신의를 담아,\n프로젝트 매니저\n\n[끝]",
+            "Item1": "[이메일 - 25##-12-26-14-27-52-0189]\n<>\n제목: 소우인과의 교제에 관한 공지\n보낸 사람: 프로젝트 매니저\n받는 사람: 모든 직원\n<>\n[내용]\n\n직원 여러분,\n\n우리 직원 중 한 명이 SAW-03과 지속적으로 만나 내부 정보를 공유하고 있었다는 사실이 밝혀졌습니다. 이는 기밀 유지 의무에 대한 중대한 위반 사항이며, 심지어 피험자와 관계를 맺는 것은 용납될 수 없습니다. 해당 과학자는 즉시 해고되었으며, 교제 중이던 SAW-03은 얼마 지나지 않아 자살했습니다.\n\n만약 당신에게도 소우인 친구가 있다면, 곧 우리와 만나게 되실 겁니다. 아직 돌아올 기회는 있습니다. 하지만 그 전에 우리가 당신을 잡게 된다면, 같은 운명을 맞이하게 될 겁니다.\n\n신의를 담아,\n프로젝트 매니저\n\n[끝]",
             "Item2": ""
         },
         {
@@ -4947,7 +4947,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[생체 측정 보고서 - 25##-04-08-09-06-08-0002]\n<>\n데이터베이스 색인: 소우인 프로젝트 등록부\n데이터베이스 하위 색인: 종\n<>\n[내용]\n\n[등록부 내 모든 개체에 대해]\n- 개체 유형 재정의: 템플릿\n- 개체 분류: 생물\n- 개체 하위 분류: 소우인\n<>\n개체 이름: SAW-01 \"엑스페리먼트\"\n개체수: [정의되지 않음]\n- 생명공학 분야에서 우리의 첫 번째 거대한 돌파구의 최종 프로토타입입니다.\n- 우리 테스트 쥐와 직원의 애완견을 DNA 스플라이싱하여 정제한 조합입니다.\n- 작고 비교적 허약합니다. 겁이 많고 두려워합니다. 총알받이 이상의 용도로는 별로 유용하지 않습니다.\n<>\n개체 이름: SAW-02 \"오렌지\"\n개체수: 52082\n- SAW-01의 돌연변이 버전입니다. 크고, 둔하고, 멍청하며 팔이 네 개입니다. 멍청한 노동과 죽으면 안 되는 모든 육체적으로 힘든 테스트에 좋습니다.\n<>\n개체 이름: SAW-03 \"밀키\"\n개체수: 32184\n- 미확인 해양 DNA와 스플라이싱된 돌연변이 SAW-01입니다. 작고, 거만하지만 똑똑합니다. 뛰어난 시야 속성을 가지고 있습니다. 정신 노동에 좋습니다.\n<>\n개체 이름: SAW-04 \"리피\"\n개체수: 2046\n- 이끼 DNA와 스플라이싱된 돌연변이 SAW-01입니다. 이 개체를 어느 정도 기능적인 상태로 만드는 데는 시간이 걸렸습니다. 비교적 빠른 암 발병으로 인해 노동에 거의 쓸모가 없습니다. 또한 도주 위험도 있습니다.\n<>\n개체 이름: SAW-05 \"촘피\"\n개체수: 6084\n- \"상어\" DNA와 스플라이싱된 돌연변이 SAW-03입니다. 육식성이며 수생입니다. 털이 없습니다. 이상하게도 친절합니다. 폭력이 적합하지 않을 때 갈등을 해결하는 데 좋습니다. 큰 꼬리가 그들을 무겁게 만들고, 우리의 오랜 이론을 확인합니다.\n- 상어는 멸종되었지만 과학적 목적으로 DNA가 보존된 포식성 해양 어류의 일종이었습니다.\n<>\n개체 이름: SAW-06 \"로자\"\n개수: 7848\n- \"스노우 스트라이더\" DNA와 스플라이싱된 돌연변이 SAW-01입니다. 이상하게 낮은 체온을 가지고 있습니다. 불안정하고 쉽게 짜증을 내지만 위협받지 않으면 온순합니다. 거추장스러운 꼬리를 가지고 있습니다. 지구 DNA와 상호 작용한 결과인 것으로 보이는 통념상의 여성적인 특징을 가지고 있습니다.\n- \"스노우 스트라이더\"에 대한 자세한 내용은 <corrupt:0xFFF853>을 참조하십시오.\n\n[1/2 페이지]",
+            "Item1": "[생체 측정 보고서 - 25##-04-08-09-06-08-0002]\n<>\n데이터베이스 색인: 소우인 프로젝트 등록부\n데이터베이스 하위 색인: 종\n<>\n[내용]\n\n[등록부 내 모든 개체에 대해]\n- 개체 유형 재정의: 템플릿\n- 개체 분류: 생물\n- 개체 하위 분류: 소우인\n<>\n개체 이름: SAW-01 \"엑스페리먼트\"\n개체수: [정의되지 않음]\n- 생명공학 분야에서 우리의 첫 번째 거대한 돌파구의 최종 프로토타입입니다.\n- 우리 테스트 쥐와 직원의 애완견을 DNA 스플라이싱하여 정제한 조합입니다.\n- 작고 비교적 허약합니다. 겁이 많고 두려워합니다. 총알받이 이상의 용도로는 별로 유용하지 않습니다.\n<>\n개체 이름: SAW-02 \"오렌지\"\n개체수: 52082\n- SAW-01의 돌연변이 버전입니다. 크고, 둔하고, 멍청하며 팔이 네 개입니다. 멍청한 노동과 죽으면 안 되는 모든 육체적으로 힘든 테스트에 좋습니다.\n<>\n개체 이름: SAW-03 \"밀키\"\n개체수: 32184\n- 미확인 해양 DNA와 스플라이싱된 돌연변이 SAW-01입니다. 작고, 거만하지만 똑똑합니다. 뛰어난 시야 속성을 가지고 있습니다. 정신 노동에 좋습니다.\n<>\n개체 이름: SAW-04 \"리피\"\n개체수: 2046\n- 이끼 DNA와 스플라이싱된 돌연변이 SAW-01입니다. 이 개체를 어느 정도 기능적인 상태로 만드는 데는 시간이 걸렸습니다. 비교적 빠른 암 발병으로 인해 노동에 거의 쓸모가 없습니다. 또한 도주 위험도 있습니다.\n<>\n개체 이름: SAW-05 \"촘피\"\n개체수: 6084\n- \"상어\" DNA와 스플라이싱된 돌연변이 SAW-03입니다. 육식성이며 수생입니다. 털이 없습니다. 이상하게도 친절합니다. 폭력이 적합하지 않을 때 갈등을 해결하는 데 좋습니다. 큰 꼬리가 그들을 무겁게 만들고, 우리의 오랜 이론을 확인합니다.\n- 상어는 멸종되었지만 과학적 목적으로 DNA가 보존된 포식성 해양 어류의 일종이었습니다.\n<>\n개체 이름: SAW-06 \"로자\"\n개수: 7848\n- \"복슬눈쟁이\" DNA와 스플라이싱된 돌연변이 SAW-01입니다. 이상하게 낮은 체온을 가지고 있습니다. 불안정하고 쉽게 짜증을 내지만 위협받지 않으면 온순합니다. 거추장스러운 꼬리를 가지고 있습니다. 지구 DNA와 상호 작용한 결과인 것으로 보이는 통념상의 여성적인 특징을 가지고 있습니다.\n- \"복슬눈쟁이\"에 대한 자세한 내용은 <corrupt:0xFFF853>을 참조하십시오.\n\n[1/2 페이지]",
             "Item2": ""
         },
         {
